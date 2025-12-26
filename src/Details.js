@@ -35,42 +35,42 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Shubham Mohod",
+  tagline: "Frontend Developer | React.js | WordPress",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Frontend Developer with 2+ years of hands-on experience in building responsive, high-performance, and user-centric web applications. Specialized in React.js and WordPress development, with strong expertise in UI/UX implementation, API integration, and performance optimization. I specialize in transforming ideas and designs into fully functional, visually appealing web applications, emphasizing responsiveness, performance, accessibility, and scalability.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/shubhammohod/",
+  github: "https://github.com/shubhammohod1996",
+  twitter: "https://x.com/Shubham39869275",
+  instagram: "https://www.instagram.com/shubham_mohod27/",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Frontend Developer",
+    Company: `HUMB Global`,
+    Location: "Remote",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Oct 2025 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Web Developer",
+    Company: `Shirkes Media Pvt. Ltd.`,
+    Location: "Pune",
+    Type: "Full Time",
+    Duration: "Sep 2024 - Aug 2025",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Frontend Developer",
+    Company: `Aariya Tech Pvt. Ltd.`,
+    Location: "Pune",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Jan 2024 - Jun 2024",
   },
 ];
 
@@ -80,15 +80,15 @@ export const eduDetails = [
     Position: "Frontend Development",
     Company: "Udemy, YouTube, Google, Medium",
     Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Type: "Self Learning",
+    Duration: "2023",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Master of Commerce (M.Com)",
+    Company: "Sant Gadge Baba Amravati University",
+    Location: "Amravati",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "2016 - 2019",
   },
 ];
 
@@ -113,63 +113,57 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Real Estate Platform",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A responsive real estate website featuring property listings, search filters, and contact forms. Built with focus on clean UI and performance optimization.`,
+    techstack: "React.js, Tailwind CSS, REST API",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
   {
-    title: "Project title 2",
+    title: "Hospitality & Resort Website",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A visually appealing website for hospitality industry featuring room bookings, amenities showcase, and gallery sections with smooth animations.`,
+    techstack: "WordPress, Custom Theme, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
   {
-    title: "Project title 3",
+    title: "Corporate Business Website",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Professional corporate website with services, team, and contact sections. Optimized for performance and cross-browser compatibility.`,
+    techstack: "HTML5, CSS3, JavaScript, Bootstrap",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
   {
-    title: "Project title 4",
+    title: "Service-Based Business Solution",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A service-oriented website featuring service listings, testimonials, and inquiry forms with responsive design across all devices.`,
+    techstack: "React.js, Redux, Tailwind CSS",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
   {
-    title: "Project title 5",
+    title: "Education Platform",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `An educational website with course listings, instructor profiles, and enrollment features. Built with accessibility in mind.`,
+    techstack: "WordPress, Theme Customization, CSS",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
   {
-    title: "Project title 6",
+    title: "Portfolio Website",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A modern, responsive portfolio website showcasing projects and skills with smooth GSAP animations and dark mode support.`,
+    techstack: "React.js, Tailwind CSS, GSAP",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shubhammohod1996",
   },
 ];
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "shubhammohod1234@gmail.com",
+  phone: "+91 98605 96519",
 };
